@@ -1,0 +1,8 @@
+test_data/
+train_data/
+processed_ori/
+processed_ori_nobg/
+processed_sk/
+legacy/
+data_/
+saved_models/
