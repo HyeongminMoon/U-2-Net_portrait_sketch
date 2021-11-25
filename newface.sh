@@ -1,1 +1,0 @@
-python u2net_portrait_demo_newface.py -p /home/ubuntu/workspace/kobaco/sketchy/U-2-Net/train_data/im2_nobg
