@@ -117,12 +117,8 @@ def sketch():
         
 #         paths = data_dict['img_path'] #list
 #     paths = glob.glob('/mnt/vitasoft/kobaco_batch/49_50_163_17/**/*')
-#         root_path = ['49_50_163_17',
-#      '101_101_210_17',
-#      '49_50_174_192',
-#      '49_50_161_173',
-#      '14_49_44_68']
-    root_path = ['49_50_163_17']
+#         root_path = []
+    root_path = []
     for _root in root_path:
         paths = glob.glob(f'/mnt/vitasoft/kobaco_batch/{_root}_lama/**/*.png', recursive=True)
         print(f'/mnt/vitasoft/kobaco_batch/{_root}_lama/')
