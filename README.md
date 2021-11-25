@@ -12,8 +12,8 @@ It made quite good results, but we need to enhance it so we trained model by cus
 
 Various styles of portrait sketchy
 
-<br><img src="https://user-images.githubusercontent.com/32811724/143386093-f9f3b1e0-4e8b-4fcd-9303-56a872888f5d.png" width="640px" height="360px"></img>
-<img src="https://user-images.githubusercontent.com/32811724/143386103-8eb3fb3b-8bed-4f37-8a49-3b4ef1718fe4.png" width="640px" height="360px"></img>
+<br><img src="https://user-images.githubusercontent.com/32811724/143386093-f9f3b1e0-4e8b-4fcd-9303-56a872888f5d.png" width="320px" height="180px"></img>
+<img src="https://user-images.githubusercontent.com/32811724/143386103-8eb3fb3b-8bed-4f37-8a49-3b4ef1718fe4.png" width="320px" height="180px"></img>
 </br>
 
 
