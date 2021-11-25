@@ -6,7 +6,7 @@ If you want to get information about U2Net, please refer [this original reposito
 Based on segmetation model U-2-Net, we discussed the possibility of using U-2-Net to draw portrait.
 It made quite good results, but we need to enhance it so we trained model by custom dataset & image pre-processing, etc.
 
-**Sorry for we cant upload trained model and custom dataset, I hope that this described methods would be helpful to you**
+**I hope that this described methods would be helpful to you😀**
 
 ## Usage
 
