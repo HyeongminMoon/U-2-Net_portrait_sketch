@@ -1,4 +1,4 @@
-U2Net_portrait_sketchy
+U2Net_portrait_sketch
 ----------------------
 
 If you want to get information about U2Net, please refer [this original repository](https://github.com/xuebinqin/U-2-Net)
