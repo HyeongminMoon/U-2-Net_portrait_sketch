@@ -28,6 +28,19 @@ It made quite good results, but we need to enhance it so we trained model by cus
 ![Traffic_light_custom_b2](https://user-images.githubusercontent.com/32811724/143388497-3237d2db-3b80-4309-97f3-a4d7aae28321.gif)
 
 ## Enhancement of portrait sketchy
-[original repository](https://github.com/xuebinqin/U-2-Net) proposed using of portrait sketchy with [APDrawingGAN dataset](https://github.com/yiranran/APDrawingGAN), it is quite good for drawing **portrait only** but still it has bad performance, especially when it draw landscape.
+[original repository](https://github.com/xuebinqin/U-2-Net) proposed using of portrait sketchy with [APDrawingGAN dataset](https://github.com/yiranran/APDrawingGAN), it is quite good for drawing **portrait only** but still it has bad performance, especially when it draws landscape.
 
 ![748066F02_1-17-TH-05-975_00310](https://user-images.githubusercontent.com/32811724/143389405-242a56ce-f099-4c4a-b1c0-473db3b138f7.png)
+
+So we enhanced it by using custom dataset and dataset transforms, such as random bluring, random affine, jittering head, jittering nearby human's outline.
+
+![750365F02_1-17-TH-09-374_00106](https://user-images.githubusercontent.com/32811724/143390222-ddcb5f1d-dea0-45ff-9fba-5a614bcf9f46.png)
+
+But It still has many dirty messy pixels on the whole picture, we want to make it clear so applied Opencv based morphology, filling contour, blurring etc.
+
+![744359F02_1-17-TH-04-780_00594](https://user-images.githubusercontent.com/32811724/143390737-fadb6c55-101c-49da-8d68-6c62c501cc00.png)
+
+It become quite good, but we continued because we want to make it lose more information such as face&cloth detail, but keep the important line information.
+
+![758050F02_1-18-TH-03-295_00425](https://user-images.githubusercontent.com/32811724/143391038-b7fc3ddd-53c4-4071-bd5a-ae3077e69485.png)
+
