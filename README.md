@@ -22,3 +22,10 @@ Various styles of portrait sketchy
 <img src="https://user-images.githubusercontent.com/32811724/143386196-e7215ff1-7b2c-4e9c-8554-4bd8c94fc3ff.png" width="320px" height="180px"></img>
 </br>
 
+<br><img src="https://user-images.githubusercontent.com/32811724/143387830-68e15cd5-f6d4-4a49-8a12-ff7895ad6b32.gif" width="320px" height="180px"></img>
+<img src="https://user-images.githubusercontent.com/32811724/143387835-c7e87190-a45a-4ee9-81c8-b6acc73cbd77.gif" width="320px" height="180px"></img>
+</br>
+<br><img src="https://user-images.githubusercontent.com/32811724/143388015-ff8908aa-832c-4e28-93b3-ff485d2de274.gif" width="320px" height="180px"></img>
+<img src="https://user-images.githubusercontent.com/32811724/143387996-5495a2d4-efed-466d-a7f7-4c7053e7ccb0.gif" width="320px" height="180px"></img>
+</br>
+
