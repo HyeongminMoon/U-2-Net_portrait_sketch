@@ -40,7 +40,7 @@ But It still has many dirty messy pixels on the whole picture, we want to make i
 
 ![744359F02_1-17-TH-04-780_00594](https://user-images.githubusercontent.com/32811724/143390737-fadb6c55-101c-49da-8d68-6c62c501cc00.png)
 
-It becomes quite good, but we continued because we want to make it lose more information such as face&cloth detail, but keep the important line information.
+It became quite good, but we continued because we want to make it be lost more information such as face&cloth detail, but keep the important line information.
 
 ![758050F02_1-18-TH-03-295_00425](https://user-images.githubusercontent.com/32811724/143391038-b7fc3ddd-53c4-4071-bd5a-ae3077e69485.png)
 
