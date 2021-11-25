@@ -26,3 +26,7 @@ It made quite good results, but we need to enhance it so we trained model by cus
 
 ![IU_Coin_train_custom_erode2 (1)](https://user-images.githubusercontent.com/32811724/143388489-1d9e0756-58e9-4ab6-98f9-ca0f0c044869.gif)
 ![Traffic_light_custom_b2](https://user-images.githubusercontent.com/32811724/143388497-3237d2db-3b80-4309-97f3-a4d7aae28321.gif)
+
+## Enhancement of portrait sketchy
+[original repository](https://github.com/xuebinqin/U-2-Net) proposed using of portrait sketchy with [APDrawingGAN dataset](https://github.com/yiranran/APDrawingGAN), it is quite good for drawing **portrait only** but still it has bad performance, especially when it draw landscape.
+![748066F02_1-17-TH-05-975_00310](https://user-images.githubusercontent.com/32811724/143389405-242a56ce-f099-4c4a-b1c0-473db3b138f7.png)
