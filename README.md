@@ -44,3 +44,6 @@ It becomes quite good, but we continued because we want to make it lose more inf
 
 ![758050F02_1-18-TH-03-295_00425](https://user-images.githubusercontent.com/32811724/143391038-b7fc3ddd-53c4-4071-bd5a-ae3077e69485.png)
 
+## Other things
+- Distributed GPU using (multi GPU on different computers)
+- Batched inference
