@@ -15,9 +15,10 @@ Various styles of portrait sketchy
 <br><img src="https://user-images.githubusercontent.com/32811724/143386093-f9f3b1e0-4e8b-4fcd-9303-56a872888f5d.png" width="320px" height="180px"></img>
 <img src="https://user-images.githubusercontent.com/32811724/143386103-8eb3fb3b-8bed-4f37-8a49-3b4ef1718fe4.png" width="320px" height="180px"></img>
 </br>
+<br><img src="https://user-images.githubusercontent.com/32811724/143386178-d2eeb72e-2a33-43c8-b0f8-713efbf30709.png" width="320px" height="180px"></img>
+<img src="https://user-images.githubusercontent.com/32811724/143386187-71006f1b-9e29-4158-b01b-f4541ad057f4.png" width="320px" height="180px"></img>
+</br>
+<br><img src="https://user-images.githubusercontent.com/32811724/143386194-614bfe30-e025-47b7-a899-43839344c172.png" width="320px" height="180px"></img>
+<img src="https://user-images.githubusercontent.com/32811724/143386196-e7215ff1-7b2c-4e9c-8554-4bd8c94fc3ff.png" width="320px" height="180px"></img>
+</br>
 
-
-![erode](https://user-images.githubusercontent.com/32811724/143386178-d2eeb72e-2a33-43c8-b0f8-713efbf30709.png)
-![comb](https://user-images.githubusercontent.com/32811724/143386187-71006f1b-9e29-4158-b01b-f4541ad057f4.png)
-![jitter](https://user-images.githubusercontent.com/32811724/143386194-614bfe30-e025-47b7-a899-43839344c172.png)
-![b2](https://user-images.githubusercontent.com/32811724/143386196-e7215ff1-7b2c-4e9c-8554-4bd8c94fc3ff.png)
