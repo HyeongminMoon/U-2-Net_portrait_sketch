@@ -116,7 +116,7 @@ def sketch():
 #         data_dict = json.loads(data_json)
         
 #         paths = data_dict['img_path'] #list
-#     paths = glob.glob('/mnt/vitasoft/kobaco_batch/49_50_163_17/**/*')
+#     paths = glob.glob('/mnt/vitasoft/kobaco_batch/**/*')
 #         root_path = []
     root_path = []
     for _root in root_path:
@@ -130,7 +130,6 @@ def sketch():
     #     if not os.path.isdir("/home/ubuntu/workspace/kobaco/sketchy/U-2-Net/temp_sketch/"):
     #         os.mkdir("/home/ubuntu/workspace/kobaco/sketchy/U-2-Net/temp_sketch/")
         for path in paths:
-    #         output_path = path.replace("49_50_163_17", "49_50_163_17_sketch")
 
             output_path = path.replace("lama", "sketch")
             save_path.append(output_path)
