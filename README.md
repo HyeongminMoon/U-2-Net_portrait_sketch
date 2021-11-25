@@ -29,4 +29,5 @@ It made quite good results, but we need to enhance it so we trained model by cus
 
 ## Enhancement of portrait sketchy
 [original repository](https://github.com/xuebinqin/U-2-Net) proposed using of portrait sketchy with [APDrawingGAN dataset](https://github.com/yiranran/APDrawingGAN), it is quite good for drawing **portrait only** but still it has bad performance, especially when it draw landscape.
+
 ![748066F02_1-17-TH-05-975_00310](https://user-images.githubusercontent.com/32811724/143389405-242a56ce-f099-4c4a-b1c0-473db3b138f7.png)
