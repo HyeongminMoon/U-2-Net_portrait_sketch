@@ -7,3 +7,8 @@ legacy/
 data_/
 saved_models/
 U2legacy/
+*.pth
+data_loader.py
+u2net_train_refine_ori.py
+result*/
+trainset/
