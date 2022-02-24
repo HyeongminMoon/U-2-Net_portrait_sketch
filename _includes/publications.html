@@ -50,6 +50,7 @@
     전처리하여 옷만을 학습하니 배경이 스케치되기 시작했다. 이때 나온 결과가 다음과 같다.</p>
 <img src="https://user-images.githubusercontent.com/32811724/143386093-f9f3b1e0-4e8b-4fcd-9303-56a872888f5d.png" width="45%">
 <img src="https://user-images.githubusercontent.com/32811724/143386103-8eb3fb3b-8bed-4f37-8a49-3b4ef1718fe4.png" width="45%">
+<br></br>
 
 <h5 class="jm-font"> 배경의 노이즈 없애기 & 빈 머리카락 채우기</h5>
 <p class="jm-font"> - 기본 모델을 얻게되면 그 뒤에는 점점 가속이 붙는다. 위의 결과를 보면 아직 배경엔 검은색 노이즈가 많고, 머리카락이 제대로 채워지지 않는 모습이다. 이것을 Opencv의 Contour를
@@ -58,10 +59,12 @@
 <img src="https://user-images.githubusercontent.com/32811724/143386178-d2eeb72e-2a33-43c8-b0f8-713efbf30709.png" width="45%">
 <p class="jm-font"> - 이로써 우리가 아는 보통의 부드러운 스케치 모델이 완성되었다. 영상에도 적용해 보았다.</p>
 <img src="https://user-images.githubusercontent.com/32811724/143388489-1d9e0756-58e9-4ab6-98f9-ca0f0c044869.gif" alt="IU_Coin_train_custom_erode2 (1)" width="45%">
+<br></br>
 
 <h5 class="jm-font"> 옷 주름 없애기 & 캐릭터화 하기</h5>
 <p class="jm-font"> - 조금 더 캐릭터 다운 스케치를 위해 유니크한 스타일로 보이도록 옷의 주름을 없애고 더욱 더 깔끔하고 강렬한 선이 되도록 학습했다. 이를 위해 정말 많은 커스텀 어그멘테이션을
     사용했는데, 하나의 예시를 들면, 사람의 테두리에 랜덤한 모자이크 패치를 붙여 사람과 배경이 구분이 되어 사람이 주요해 보이도록 했다.</p>
+<br></br>
 
 <h5 class="jm-font"> 기타 적용했던 방법들 </h5>
 <p class="jm-font"> - 그 외에는 다양한 데이터에 사용될 수 있게 Random Affine과 Copy-Paste-Aug를 적용했다. 그리고 검은색과 흰색으로만 표현되는 스케치와 달리 원본 사진에는 초점이나 밝기를 통해 원근이 표현되는데,
